@@ -17,7 +17,7 @@
 
 ### Описание данных
 
-Данные находятся в файле [/datasets/Churn.csv](https://code.s3.yandex.net/datasets/Churn.csv) (англ. «отток клиентов»). Скачать датасет
+Данные находятся в файле [/datasets/Churn.csv](https://code.s3.yandex.net/datasets/Churn.csv)
 
 ### Признаки
 
